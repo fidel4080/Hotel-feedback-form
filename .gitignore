@@ -1,0 +1,14 @@
+# Ignore compiled files
+*.exe
+*.o
+*.out
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+.DS_Store
